@@ -1,0 +1,4 @@
+Model Features,"['host_listings_count', 'host_identity_verified', 'property_type_0', 'property_type_1', 'property_type_2', 'property_type_3', 'property_type_4', 'property_type_5', 'accommodates', 'beds', 'location_cluster', 'host_duration_days', 'room_type_Entire home/apt', 'room_type_Hotel room', 'room_type_Private room', 'room_type_Shared room']"
+Parameters,"{'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': 20, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 500, 'n_jobs': None, 'oob_score': False, 'random_state': 123, 'verbose': 0, 'warm_start': False}"
+Hyperparameters,"{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 500}"
+Performance Metrics,{'MAE': 0.32917571639131804}
